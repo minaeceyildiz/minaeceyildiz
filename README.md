@@ -1,10 +1,14 @@
-<h1 align="center">Hi 👋, I'm Mina Ece </h1>
+<p align="center">
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/de3zz9z-ffa11131-1b4b-4e9f-8d01-aaddb1a14243.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGUzeno5ei1mZmExMTEzMS0xYjRiLTRlOWYtOGQwMS1hYWRkYjFhMTQyNDMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.TFvXCZq_3q1zO1y7DXq6_-nuhYLG9laBYpzQka1offE" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Mina Ece Yıldız</h1>
 <h3 align="center">I'm a computer science student with a keen interest in exploring and building innovative tech solutions. A self-motivated and passionate individual, I thrive on learning new technologies and applying them to solve real-world problems. My current projects involve working with ESP32 microcontrollers, motion sensors, PHP, MySQL, and frontend development to create efficient and effective systems. I enjoy collaborating with others and believe in the power of open-source software to drive progress and innovation.
 
 Feel free to check out my repositories and connect with me!</h3>
 
 <p align="center">
-  <img src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif" alt="Coding Girl GIF" />
+  <img src="https://steamuserimages-a.akamaihd.net/ugc/1696157019707375037/BD6E6F9F1065D25D25E63DADF820A406B28032BA/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minaeceyildiz&label=Profile%20views&color=0e75b6&style=flat" alt="minaeceyildiz" /> </p>
@@ -21,7 +25,7 @@ Feel free to check out my repositories and connect with me!</h3>
 
 - 📄 Know about my experiences [My Resume](https://www.linkedin.com/in/minaeceyildiz/)
 
-- ⚡ Fun fact **I'm advancing steadily on my journey to becoming a professional social Latin dancer!💃💃**
+- ⚡ Fun fact **I'm advancing steadily on my journey to becoming a professional social Latin dancer!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
